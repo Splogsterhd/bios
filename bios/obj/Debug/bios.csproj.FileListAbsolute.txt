@@ -1,0 +1,6 @@
+C:\Users\joebr\source\repos\bios\bios\bin\Debug\bios.exe.config
+C:\Users\joebr\source\repos\bios\bios\bin\Debug\bios.exe
+C:\Users\joebr\source\repos\bios\bios\bin\Debug\bios.pdb
+C:\Users\joebr\source\repos\bios\bios\obj\Debug\bios.csprojAssemblyReference.cache
+C:\Users\joebr\source\repos\bios\bios\obj\Debug\bios.exe
+C:\Users\joebr\source\repos\bios\bios\obj\Debug\bios.pdb
